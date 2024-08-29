@@ -1,0 +1,1 @@
+print(hi) # type: ignore
